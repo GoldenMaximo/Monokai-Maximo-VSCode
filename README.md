@@ -5,6 +5,6 @@ It was based on the Monokai and Monokai Dark soda themes, I did some minor tweak
 
 ###### Demo:
 
-[Screenshot Demo](images/monokaiMaximoScreenshot1.png)
+![Screenshot Demo](images/monokaiMaximoScreenshot1.png)
 
 **Hope you enjoy!**
