@@ -1,0 +1,29 @@
+{
+    "name": "monokai-maximo",
+    "displayName": "Monokai Máximo",
+    "version": "0.1.0",
+    "publisher": "GoldenMaximo",
+    "description": "Theme based on Monokai and Monokai Dark Soda",
+    "author": {
+        "name": "Gustavo Máximo / GoldenMaximo"
+    },
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai Maximo",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monokai Maximo-color-theme.json"
+            }
+        ]
+    },
+    "bugs": {
+        "url": "https://github.com/GoldenMaximo/",
+        "email": "gfmaximo97@gmail.com"
+    }
+}
