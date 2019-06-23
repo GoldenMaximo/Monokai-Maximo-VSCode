@@ -4,6 +4,6 @@ This is my first theme/extension uploaded to the marketplace. It was based on th
 
 ###### Demo:
 
-images\monokaiMaximoScreenshot1.png
+[Screenshot Demo](images/monokaiMaximoScreenshot1.png)
 
 **Hope you enjoy!**
