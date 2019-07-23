@@ -189,7 +189,7 @@
 		"list.inactiveFocusBackground": "#313135",
 		"list.invalidItemForeground": "#b89500",
         // "list.warningForeground": "#A6E22E",
-        "list.warningForeground": "#FD971F",
+        // "list.warningForeground": "#FD971F",
 		//"menu.selectionBackground": "#75715e",
 		//"menu.selectionForeground": "#ffffff",
 		//"menu.separatorBackground": "#bbbbbb",
