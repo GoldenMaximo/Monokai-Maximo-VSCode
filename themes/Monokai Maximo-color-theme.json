@@ -2,6 +2,9 @@
 	"name": "Monokai Maximo",
 	"type": "dark",
 	"colors": {
+        // "activityBar.activeBorder": "#3cabf2",
+        "activityBar.activeBorder": "#F92672",
+        // "activityBar.activeBorder": "#A6E22E",
 		"activityBar.background": "#333333",
 		"activityBar.dropBackground": "#414339",
 		"activityBar.foreground": "#f8f8f2",
@@ -71,7 +74,7 @@
 		"sideBarSectionHeader.background": "#333333",
 		"statusBar.background": "#2d569c",
 		"statusBar.foreground": "#ffffff",
-		"statusBar.debuggingBackground": "#75715e",
+		"statusBar.debuggingBackground": "#F92672",
 		"statusBar.noFolderBackground": "#414339",
 		"tab.border": "#1e1f1c",
 		"tab.inactiveBackground": "#2b2c27",
